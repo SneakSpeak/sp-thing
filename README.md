@@ -1,4 +1,6 @@
 # sp-thing
+Dead simple package for a IoT things to send measurement info to SneakSpeak channel on user's behalf.
+
 ## Installation
 ```
 npm install git+https://github.com/SneakSpeak/sp-thing.git
