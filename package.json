@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SneakSpeak/sp-thing/issues"
   },
-  "homepage": "https://github.com/SneakSpeak/sp-thing#readme"
+  "homepage": "https://github.com/SneakSpeak/sp-thing#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
 }
