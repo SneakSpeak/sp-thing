@@ -1,0 +1,19 @@
+{
+  "name": "sp-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SneakSpeak/sp-thing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SneakSpeak/sp-thing/issues"
+  },
+  "homepage": "https://github.com/SneakSpeak/sp-thing#readme"
+}
